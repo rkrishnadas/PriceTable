@@ -1,1 +1,1 @@
-# PriceTable
+# PricePanel
